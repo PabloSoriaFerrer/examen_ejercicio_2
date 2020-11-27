@@ -1,0 +1,31 @@
+div.cabecera{
+    background-color: coral;
+    display: block;
+}
+div.menu{
+    background-color: darkturquoise;
+    color: red;
+
+}
+
+p.apartado1{
+    background-color: darkblue;
+    
+}
+div.blanco{
+    background-color: white;
+    color: blue;
+}
+
+p.rojo{
+    background-color: red;
+
+}
+div.verdefosfi{
+    background-color: yellowgreen;
+    display: block;
+    color: blue;
+}
+p.tachado{
+        text-decoration: line-through;
+}
